@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 
 setuptools.setup(
-    name="unet-tracker", # Replace with your own username
+    name="unetTracker", # Replace with your own username
     version="0.0.1",
     author="Kevin Allen",
     author_email="allen@uni-heidelberg.de",
